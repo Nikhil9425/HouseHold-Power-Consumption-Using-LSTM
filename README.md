@@ -8,7 +8,7 @@ The data was collected between December 2006 and November 2010 and observations 
 Database information:
 
 This database have 2,075,259 rows and 7 columns.
-*date: Date in format dd/mm/yyyy
+* date: Date in format dd/mm/yyyy
 *time: time in format hh:mm:ss
 *global_active_power: household global minute-averaged active power (in kilowatt)
 *global_reactive_power: household global minute-averaged reactive power (in kilowatt)
